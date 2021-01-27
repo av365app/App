@@ -17,7 +17,7 @@
 * ⚠️注意，大陸等地區需要連接 VPN 後使用；
 點擊[Av365.apk]()下載，並安裝，如遇到未知來源，請前往系統設定，並點擊允許。
 安裝完成後打開，就可以見到這個讓人心動的啟動畫面了。😍
-![“老師們好😝”](https://github.com/av365app/App/blob/main/Resources/Screenshot_2.png?raw=true)
+![“老師們好😝”](https://github.com/av365app/App/blob/main/Resources/Screenshot_2.png?raw=true =200)
 
 ---
 ### 偏好選擇
