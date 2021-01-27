@@ -49,4 +49,4 @@
 
 ---
 
-### 需求或問題反饋，請在 GitHub 上面提交 [Issues](https://github.com/av365app/App/issues)
+### 📝需求或問題反饋，請在 GitHub 上面提交 [Issues](https://github.com/av365app/App/issues)
