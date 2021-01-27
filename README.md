@@ -17,13 +17,18 @@
 * ⚠️注意，大陸等地區需要連接 VPN 後使用；
 點擊[Av365.apk]()下載，並安裝，如遇到未知來源，請前往系統設定，並點擊允許。
 安裝完成後打開，就可以見到這個讓人心動的啟動畫面了。😍
+
 ![“老師們好😝”](https://github.com/av365app/App/blob/main/Resources/Screenshot_2.png?raw=true)
 
 ---
 ### 偏好選擇
 首次啟動 App，可以選擇你最心儀的偏好/類型：
+
 ![](https://github.com/av365app/App/blob/main/Resources/Screenshot_3.png?raw=true)
+
+
 不要太貪心，最多只可選三項喔～（主要是為用家身體考慮 🐶
+
 ![](https://github.com/av365app/App/blob/main/Resources/Screenshot_4.png?raw=true)
 
 ---
@@ -31,6 +36,7 @@
 ### 個性化推薦
 選好了嗎？是不是還在糾結哪些類型，沒關係，以後也可以在「我的」頁面中重新修改設定喔，趕緊進入下一步吧～ 
 進入首頁，這裡就是依據剛才的喜好設定，為你推薦的精選影片。😍
+
 ![](https://github.com/av365app/App/blob/main/Resources/Screenshot_5.png?raw=true)
 
 ---
