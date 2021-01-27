@@ -13,7 +13,7 @@
 ---
 
 ## 下載安裝
-#### ⚠️注意，大陸等地區需要連接 VPN 後使用；
+#### ⚠️ 注意，大陸等地區需要連接 VPN 後使用；
 
 * 點擊  [Av365.apk](https://github.com/av365app/App/releases/download/av/AV365_v0.6_beta_release20210127.apk)  下載，並安裝，如遇到未知來源，請前往系統設定，並點擊允許。
 安裝完成後打開，就可以見到這個讓人心動的啟動畫面了。😍
@@ -49,4 +49,4 @@
 
 ---
 
-### 📝需求或問題反饋，請在 GitHub 上面提交 [Issues](https://github.com/av365app/App/issues)
+### 📝 需求或問題反饋，請在 GitHub 上面提交 [Issues](https://github.com/av365app/App/issues)
