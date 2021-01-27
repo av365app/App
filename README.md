@@ -1,8 +1,8 @@
 ![否無數次在 Goole 嘗試，但卻沒有結果？](https://github.com/av365app/App/blob/main/Resources/Google%20.png?raw=true)
 
-# 一個免費純淨的 AV 軟體。
+## 一個免費純淨的 AV 軟體。
 
-# 🔥 Av365，一個容納數萬部影片的 App，希望你在這裡玩得開心。  
+## 🔥 Av365，一個容納數萬部影片的 App，希望你在這裡玩得開心。  
 
 ---
 ## 目錄
@@ -14,7 +14,7 @@
 ---
 
 ## 下載安裝
-** ⚠️注意，大陸等地區需要連接 VPN 後使用；
+#### ⚠️注意，大陸等地區需要連接 VPN 後使用；
 
 ## 點擊  [Av365.apk](https://github.com/av365app/App/releases/download/av/AV365_v0.6_beta_release20210127.apk)  下載，並安裝，如遇到未知來源，請前往系統設定，並點擊允許。
 安裝完成後打開，就可以見到這個讓人心動的啟動畫面了。😍
